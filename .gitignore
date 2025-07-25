@@ -1,0 +1,8 @@
+*.html
+*.txt
+*.out
+*.x
+*.vscode
+*.png
+!Examples/*.html
+!Examples/*.png
