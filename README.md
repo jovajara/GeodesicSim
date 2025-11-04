@@ -10,4 +10,4 @@ C is used for the numerical computation, and Python generates an interactive 3D 
 
 #### Use
 * To compile and run the program, run `make run` in the terminal. 
-* To make the 3D plot make sure that Plotly is installed and then run  `make plot`.  It should open a browser window with your generated plot. If nothing happens, open the generated html file.
+* To make the 3D plot make sure that Plotly is installed and then run  `make plot`.  It should open a browser window with your generated plot. If nothing happens, open the generated HTML file.
